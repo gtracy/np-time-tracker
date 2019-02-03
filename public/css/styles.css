@@ -1,0 +1,14 @@
+/* Optional: Makes the sample page fill the window. */
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+p {
+    padding: 0;
+    margin: 0;
+}
+h2 {
+    font: 1.7em georgia;
+    margin-bottom: 0px;
+}

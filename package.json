@@ -1,0 +1,25 @@
+{
+  "name": "np-time-tracker",
+  "version": "1.0.0",
+  "description": "SMS-based time tracking system for November Project's PR day",
+  "main": "lib/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gtracy/np-time-tracker.git"
+  },
+  "author": "Greg Tracy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gtracy/np-time-tracker/issues"
+  },
+  "homepage": "https://github.com/gtracy/np-time-tracker#readme",
+  "dependencies": {
+    "airtable": "^0.5.8",
+    "aws-serverless-express": "^3.3.5",
+    "express": "^4.16.4",
+    "pug": "^2.0.3"
+  }
+}
