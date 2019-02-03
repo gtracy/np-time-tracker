@@ -19,7 +19,9 @@
   "dependencies": {
     "airtable": "^0.5.8",
     "aws-serverless-express": "^3.3.5",
+    "body-parser": "^1.18.3",
     "express": "^4.16.4",
+    "logme": "^0.4.0",
     "pug": "^2.0.3"
   }
 }
